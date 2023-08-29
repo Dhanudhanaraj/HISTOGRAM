@@ -68,18 +68,18 @@ plt.show()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+
 ![Screenshot from 2023-08-29 21-41-47](https://github.com/Dhanudhanaraj/HISTOGRAM/assets/119218812/48be0a4c-79db-473c-bb2b-75e7f2d97f09)
 
-
 ### Histogram of Grayscale Image and any channel of Color Image
+
 ![Screenshot from 2023-08-29 21-42-08](https://github.com/Dhanudhanaraj/HISTOGRAM/assets/119218812/85d43176-03c0-48b2-8cb5-9cc1f343084b)
 
-
+![Screenshot from 2023-08-29 21-42-16](https://github.com/Dhanudhanaraj/HISTOGRAM/assets/119218812/6c6ae146-66b6-452b-8bd3-a1d23224940f)
 
 ## Histogram Equalization of Grayscale Image
 
-
-
+![Screenshot from 2023-08-29 21-42-30](https://github.com/Dhanudhanaraj/HISTOGRAM/assets/119218812/d9c2d463-3c19-43d0-b7f0-8423c1e789e0)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
